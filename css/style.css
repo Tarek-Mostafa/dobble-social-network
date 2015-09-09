@@ -230,7 +230,7 @@ footer{
 		display: block;
 	}
 
-	.panel-body form button{
+	.post-form form button{
 		width: 72px;
 	}
 }
